@@ -1,0 +1,3 @@
+/home/zeev/workspaces/k8s/aligelenler/23microservices-demo/kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/service/impl/TwitterKafkaProducer.java
+/home/zeev/workspaces/k8s/aligelenler/23microservices-demo/kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/KafkaProducerConfig.java
+/home/zeev/workspaces/k8s/aligelenler/23microservices-demo/kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/service/KafkaProducer.java

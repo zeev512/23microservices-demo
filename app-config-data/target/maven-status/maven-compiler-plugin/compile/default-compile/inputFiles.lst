@@ -1,0 +1,4 @@
+/home/zeev/workspaces/k8s/aligelenler/23microservices-demo/app-config-data/src/main/java/com/microservices/demo/config/TwitterToKafkaServiceConfigData.java
+/home/zeev/workspaces/k8s/aligelenler/23microservices-demo/app-config-data/src/main/java/com/microservices/demo/config/KafkaConfigData.java
+/home/zeev/workspaces/k8s/aligelenler/23microservices-demo/app-config-data/src/main/java/com/microservices/demo/config/RetryConfigData.java
+/home/zeev/workspaces/k8s/aligelenler/23microservices-demo/app-config-data/src/main/java/com/microservices/demo/config/KafkaProducerConfigData.java

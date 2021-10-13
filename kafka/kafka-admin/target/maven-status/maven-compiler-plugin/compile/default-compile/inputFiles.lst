@@ -1,0 +1,4 @@
+/home/zeev/workspaces/k8s/aligelenler/23microservices-demo/kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/exception/KafkaClientException.java
+/home/zeev/workspaces/k8s/aligelenler/23microservices-demo/kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/client/KafkaAdminClient.java
+/home/zeev/workspaces/k8s/aligelenler/23microservices-demo/kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/config/KafkaAdminConfig.java
+/home/zeev/workspaces/k8s/aligelenler/23microservices-demo/kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/config/WebClientConfig.java

@@ -9,7 +9,7 @@ spring:
           default-label: master
           username: zeev512
           # Use the token instead of password
-          password: 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
+          password: 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
           # password: Aerospace512
           clone-on-start: true
     fail-fast: true
